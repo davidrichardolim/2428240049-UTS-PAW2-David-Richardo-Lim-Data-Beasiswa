@@ -2,7 +2,7 @@ import mongoose from 'mongoose'
 
 const schema = new mongoose.Schema(
   {
-    nama: {
+    name: {
       type: String,
       required: true,
       unique: true,
@@ -13,7 +13,7 @@ const schema = new mongoose.Schema(
       unique: true,
     },
     deadline: {
-      type: date,
+      type: String,
       required: true,
       unique: true,
     },

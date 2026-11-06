@@ -1,0 +1,23 @@
+openapi: 3.0.0
+info:
+  title: beasiswa
+  version: 1.0.0
+  description: ''
+servers:
+  - url: ''
+  - url: 'http://localhost:3000'
+paths:
+  /:
+    post:
+      summary: Tambah Beasiswa
+      responses: {}
+    put:
+      summary: Update Beasiswa
+      responses: {}
+    delete:
+      summary: Hapus Beasiswa
+      responses: {}
+  /api/beasiswa:
+    get:
+      summary: Tampil Beasiswa
+      responses: {}

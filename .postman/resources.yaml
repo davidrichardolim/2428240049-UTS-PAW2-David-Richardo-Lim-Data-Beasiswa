@@ -1,0 +1,8 @@
+workspace:
+  id: 016fbb75-2e92-45a1-8c8f-4c580c3d5457
+localResources:
+  specs:
+    - ../postman/specs/beasiswa/beasiswa.yaml
+resourceNameMappings:
+  specs:
+    - ../postman/specs/beasiswa/beasiswa.yaml: beasiswa
