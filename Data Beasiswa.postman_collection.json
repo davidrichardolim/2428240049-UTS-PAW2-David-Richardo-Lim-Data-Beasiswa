@@ -1,0 +1,66 @@
+{
+  "info": {
+    "_postman_id": "f3e4601f-1924-420d-a765-535fa6382669",
+    "name": "Data Beasiswa",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "58469996",
+    "_collection_link": "https://go.postman.co/collection/58469996-f3e4601f-1924-420d-a765-535fa6382669?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Tambah Beasiswa",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Tampil Beasiswa",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Cari Beasiswa",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Update Beasiswa",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Hapus Beasiswa",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": ""
+        }
+      },
+      "response": []
+    }
+  ]
+}
